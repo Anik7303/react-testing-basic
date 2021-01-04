@@ -1,0 +1,22 @@
+.App {
+    text-align: center;
+}
+
+.Display {
+    padding: 2rem;
+    border: 2px solid black;
+    outline: 2px solid black;
+    outline-offset: 4px;
+    max-width: 50rem;
+    width: 70%;
+    margin: 2rem auto 4rem;
+    font-weight: 700;
+    font-size: 2rem;
+}
+
+.btn {
+    padding: 0.5rem 1rem;
+    margin: 0.5rem;
+    font-size: inherit;
+    font-family: inherit;
+}
